@@ -1,0 +1,19 @@
+{
+  "name": "canal-automatico",
+  "version": "1.0.0",
+  "description": "Meu canal automatico do youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElitonSouzaDev/canal-automatico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElitonSouzaDev/canal-automatico/issues"
+  },
+  "homepage": "https://github.com/ElitonSouzaDev/canal-automatico#readme"
+}
